@@ -1,4 +1,7 @@
-## Vercel build:
+## Demo:
+https://www.youtube.com/watch?v=t4EaYmk6KiA
+
+## Vercel build (deprecated):
 https://bmart-ucla.vercel.app/
 
 ## Getting Started
