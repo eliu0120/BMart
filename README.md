@@ -1,5 +1,5 @@
 ## Demo:
-https://www.youtube.com/watch?v=t4EaYmk6KiA
+[https://www.youtube.com/watch?v=t4EaYmk6KiA](https://youtu.be/odliEyMy1Mw)
 
 ## Vercel build (deprecated):
 https://bmart-ucla.vercel.app/
